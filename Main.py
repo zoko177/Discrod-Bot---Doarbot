@@ -1,6 +1,7 @@
 import discord
 import random
 from apex_legends import ApexLegends
+#ka
 
 class apex_player():
     def __init__(self, name):
